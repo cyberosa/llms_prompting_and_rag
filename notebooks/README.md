@@ -4,7 +4,6 @@ Thanks to this project I had the opportunity to try some open-source llms such a
 
 Folders of the project
 * data: contains the questions-answers used with the models.
-* images: images used in the notebooks
 * notebooks:
     - Creating_questions_dataset: to prepare the dataset for the initial test
     - Collecting_model_responses: script to get the answers from the models
